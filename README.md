@@ -1,1 +1,1 @@
-# jsarraypractice
+# JavaScript Array Practice
